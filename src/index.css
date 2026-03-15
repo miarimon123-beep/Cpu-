@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@keyframes leg-swing {
+  0% { transform: rotate(-40deg); }
+  100% { transform: rotate(40deg); }
+}
+@keyframes leg-swing-reverse {
+  0% { transform: rotate(40deg); }
+  100% { transform: rotate(-40deg); }
+}
+@keyframes tail-wag {
+  0% { transform: rotate(-15deg); }
+  100% { transform: rotate(15deg); }
+}
+@keyframes body-bounce {
+  0% { transform: translateY(0px); }
+  100% { transform: translateY(-4px); }
+}

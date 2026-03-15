@@ -1,0 +1,5 @@
+{
+  "name": "CPU Cat Monitor",
+  "description": "A desktop widget simulation showing an animated cat that reacts to CPU usage.",
+  "requestFramePermissions": []
+}
